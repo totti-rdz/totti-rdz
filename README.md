@@ -28,7 +28,7 @@ I am a self-taught Frontend Developer going Full Stack working and learning in R
 > Remember to look up at the stars and not down at your feet. Try to make sense of what you see and wonder about what makes the universe exist. Be curious. And however difficult life may seem, there is always something you can do and succeed at.
 It matters that you don't just give up.
 
-- Stephen Hawking
+\- Stephen Hawking
 
 <!--
 **totti-rdz/totti-rdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
