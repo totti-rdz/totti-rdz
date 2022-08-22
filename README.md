@@ -2,9 +2,11 @@
 
 ### Nice to meet you. :blush:
 
-I am a self-taught Frontend Developer going Full Stack working and learning in Regensburg, Germany. 
+I am a self-taught Frontend Developer going Full Stack working and learning in Regensburg, Germany.
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+<a href="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=" target="_blank" style="display: block">
+<img src="./assets/coder-gif.webp" alt="Coder GIF" style="max-width: 100%;" >
+</a>
 
 ### 🛠️ Technologies I currently use:
 
@@ -21,12 +23,14 @@ I am a self-taught Frontend Developer going Full Stack working and learning in R
 <!--
 - Website: [maximousblk.me](https://maximousblk.me/)
 -->
+
 - Email: [totti@coasy.com](mailto:totti@coasy.com)
 - LinkedIn: [Thorsten Herfurtner](https://www.linkedin.com/in/thorsten-herfurtner-a99246215/)
 
 ---
+
 > Remember to look up at the stars and not down at your feet. Try to make sense of what you see and wonder about what makes the universe exist. Be curious. And however difficult life may seem, there is always something you can do and succeed at.
-It matters that you don't just give up.
+> It matters that you don't just give up.
 
 \- Stephen Hawking
 
