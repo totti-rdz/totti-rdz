@@ -26,6 +26,7 @@ I am a self-taught Frontend Developer going Full Stack working and learning in R
 
 - Email: [thorsten_herfurtner@gmx.de](mailto:thorsten_herfurtner@gmx.de)
 - LinkedIn: [Thorsten Herfurtner](https://www.linkedin.com/in/thorsten-herfurtner-a99246215/)
+- My page: [hello world](https://totti-rdz.vercel.app/) - work in progress
 
 ---
 
