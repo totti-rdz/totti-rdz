@@ -10,12 +10,14 @@ I am a self-taught Frontend Developer going Full Stack working and learning in R
 
 ### 🛠️ Technologies I currently use:
 
-- React
-- Tailwind CSS
 - Next.js
-- React Native
+- Tailwind CSS
+- React
+- Vite
 - HTML 5
 - CSS 3
+- Docker
+- React Native
 - JavaScript
 
 ### 📫 How to reach me:
@@ -27,6 +29,11 @@ I am a self-taught Frontend Developer going Full Stack working and learning in R
 - Email: [thorsten_herfurtner@gmx.de](mailto:thorsten_herfurtner@gmx.de)
 - LinkedIn: [Thorsten Herfurtner](https://www.linkedin.com/in/thorsten-herfurtner/?locale=en_US)
 - My page: [hello world](https://totti-rdz.vercel.app/) - work in progress
+
+### Projects
+- [Github Trending X](https://node-webscraper-github-jxaj.onrender.com/) - loooong loading due to hosting service; see [code](https://github.com/totti-rdz/github-trending-x)
+- An online multiplayer quiz game for drinking: [Quizzy-Booze](https://quizzy-booze-demo.up.railway.app/)
+- Command-line tool to run muliple Google Lighthouse performance tests on a given URL: [lighthouse-runner-cli](https://github.com/totti-rdz/node-cli-lighthouse-runner)
 
 ---
 
