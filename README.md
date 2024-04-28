@@ -32,7 +32,7 @@ I am a self-taught Frontend Developer going Full Stack working and learning in R
 
 ### 🏀 Projects
 - [Github Trending X](https://node-webscraper-github-jxaj.onrender.com/) - loooong loading due to hosting service; see [code](https://github.com/totti-rdz/github-trending-x)
-- An online multiplayer quiz game (in german) for drinking: [Quizzy-Booze](https://quizzy-booze-demo.up.railway.app/)
+- An online multiplayer quiz game (in german) for drinking: [Quizzy-Booze](https://quizzy-booze-demo.up.railway.app/) (currently not hosted!)
 - Command-line tool to run muliple Google Lighthouse performance tests on a given URL: [lighthouse-runner-cli](https://github.com/totti-rdz/node-cli-lighthouse-runner)
 
 ---
